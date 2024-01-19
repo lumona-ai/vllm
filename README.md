@@ -1,3 +1,7 @@
+**Lumona VLLM Fork**
+
+This is Lumona's VLLM Fork, merging in Multi-LORA and relaxing pydantic versioning. 
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vllm-project/vllm/main/docs/source/assets/logos/vllm-logo-text-dark.png">
