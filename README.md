@@ -1,6 +1,8 @@
 **Lumona VLLM Fork**
 
 This is Lumona's VLLM Fork, merging in Multi-LORA and relaxing pydantic versioning. 
+Multi-LORA: https://github.com/vllm-project/vllm/pull/1804
+Relaxed Pydantic Versioning: https://github.com/vllm-project/vllm/pull/2468
 
 <p align="center">
   <picture>
